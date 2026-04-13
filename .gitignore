@@ -1,1 +1,27 @@
+
+
+**/Migrations/
+
 *.db
+razorwebapp.db-shm
+razorwebapp.db-wal
+
+
+# .NET Core
+**bin/
+**obj/
+.vs/
+**/.vsconfig
+
+# NuGet
+*.nupkg
+packages/
+
+# User secrets  
+*.user
+secrets.json
+.env
+
+# IDE
+.vscode/
+.DS_Store
